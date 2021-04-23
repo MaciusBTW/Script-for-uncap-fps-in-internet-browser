@@ -1,0 +1,3 @@
+-disable-frame-rate-limit
+
+https://github.com/MaciusBTW/Script-for-uncap-fps-in-internet-browser.git
